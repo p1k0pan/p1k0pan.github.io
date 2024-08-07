@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-**Find my CV👇**
-
+Find my CV👇
+======
 [CV](../assets/CV.pdf)
