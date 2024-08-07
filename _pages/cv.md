@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Find my CV👇"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Find my CV👇
+
 ======
 [CV](../assets/CV.pdf)
