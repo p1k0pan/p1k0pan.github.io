@@ -24,3 +24,6 @@ I am currently pursuing my Master’s degree and working as a Research Assistant
 
 ## Misc.
 🍺 Craft beer lover - *"Life's too short for bad beer"*
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Z4j6RR4Oe-Hly6tCmfJ0dzYM_6vKidmxO1GYVlLoi7o&cl=ffffff&w=a"></script>
