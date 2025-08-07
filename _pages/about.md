@@ -11,5 +11,13 @@ I am a master student of business informatics in University of Hamburg. Also I a
 
 
 
-## News
-- 05/2024 A paper accepted at ACL 2024 Finding Conference
+## 🔥 News
+- 🎉 May 2025: A paper accepted at ACL 2025 (Findings)!
+- 🎉 May 2024: A paper accepted at ACL 2024 (Findings)!
+
+## 🏛️ Professional Activities
+### Academic Services
+- Conference Reviewer: ACL 25', NAACL 25', ACMMM 25'
+
+### Teaching Assistant
+- Lecturer for *Exercises Statistical Methods of Language Technology*, Summer 2025, University of Hamburg 
