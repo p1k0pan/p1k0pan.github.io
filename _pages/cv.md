@@ -11,4 +11,4 @@ redirect_from:
 
 
 
-[CV](../assets/CV.pdf)
+[CV](../assets/pan_CV.pdf)
