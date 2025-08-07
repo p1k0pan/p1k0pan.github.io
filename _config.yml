@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jingheng Pan"
 title_separator          : "-"
-name                     : &name "Jingheng Pan"
+name                     : &name "Jingheng Pan (潘景恒)"
 description              : &description "personal description"
 url                      : https://p1k0pan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   name             : "Jingheng Pan"
   pronouns         : # example: "He/Him"  
   bio              : "Master student at University of Hamburg\nResearch Assistant in Language Technology Group"
-  location         : "Hamburg"
+  location         : "Vogt-Kölln-Straße 30, 22527 Hamburg"
   employer         : 
   uri              : 
   email            : "jingheng.pan@studium.uni-hamburg.de" 

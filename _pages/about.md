@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Jingheng Pan"
+title: "👋 About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,3 +21,6 @@ I am a master student of business informatics in University of Hamburg. Also I a
 
 ### Teaching Assistant
 - Lecturer for *Exercises Statistical Methods of Language Technology*, Summer 2025, University of Hamburg 
+
+## Misc.
+🍺 Craft beer lover - *"Life's too short for bad beer"*
