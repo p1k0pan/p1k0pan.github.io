@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student of business informatics in University of Hamburg. Also I am currently a student research assistant working on Multimodal-Learning in Language Technology research group, and I basically provide technical implementation and analysis among the research.
+I am currently pursuing my Master’s degree and working as a Research Assistant in the Language Technology Group at the University of Hamburg, where I conduct research on multimodal learning and Large Vision-Language Models (LVLMs), advised by [Xintong Wang](https://ethanscuter.github.io/) and [Prof. Dr. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html) .
 
 
 
