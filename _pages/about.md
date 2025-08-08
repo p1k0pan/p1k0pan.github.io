@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my Master’s degree and working as a Research Assistant in the Language Technology Group at the University of Hamburg, where I conduct research on multimodal learning and Large Vision-Language Models (LVLMs), advised by [Xintong Wang](https://ethanscuter.github.io/) and [Prof. Dr. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html) .
+I am currently pursuing my Master’s degree and working as a Research Assistant in the Language Technology Group at the University of Hamburg, where I conduct research on multimodal learning and Large Vision-Language Models (LVLMs) under the supervision of [Xintong Wang](https://ethanscuter.github.io/) and [Prof. Dr. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html).
 
 
 
